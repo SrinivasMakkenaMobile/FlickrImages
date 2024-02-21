@@ -7,7 +7,7 @@ Display images in grid on searching and display image details on clicking each i
   - Moshi for serialization
   - Retrofit
   - Kotlin Coroutines
-  - Mocck for Unit testing
+  - MockK for Unit testing
   - Compose UI testing
   - Markdown Text (Markwon library)
     
