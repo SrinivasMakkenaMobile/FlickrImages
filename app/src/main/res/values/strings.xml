@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CVSFlickr</string>
+    <string name="input_placeholder">Search for images</string>
+    <string name="search_empty_state">Images will be displayed here after search.</string>
+    <string name="published_on">Published on %s</string>
+    <string name="generic_error">Something went wrong! Please try again.</string>
+</resources>
